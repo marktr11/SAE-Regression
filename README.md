@@ -1,8 +1,5 @@
 # SAE-Regression
-A supervised project associated with University of Côte d'Azur
-
-[La version anglaise est ici.](https://github.com/marktr11/SAE-Linear-Regression/blob/main/READMEeng.md)
-
+Un projet supervisé associé à l'Université Côte d'Azur.
 
 ## Contexte
 Le jeu de données [Consommation](Consommations.csv) contient des informations sur la consommation de carburant de certains modèles de voitures populaires vendues entre 1999 et 2008, collectées par l'Agence de protection de l'environnement des États-Unis.
