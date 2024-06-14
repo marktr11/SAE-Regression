@@ -1,4 +1,4 @@
-# SAE-Regression
+# SAE-Régression
 Un projet supervisé associé à l'Université Côte d'Azur.
 
 ## Contexte
