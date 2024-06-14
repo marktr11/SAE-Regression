@@ -9,6 +9,6 @@ L'objectif est de prédire les niveaux de consommation de carburant des voitures
 
 Vous pouvez consulter le projet détaillé ci-dessous:
 
-[Projet](https://github.com/marktr11/SAE-Regression/blob/main/SAE%20Regr%C3%A9ssion.pdf)
+[Projet](https://github.com/marktr11/SAE-Regression/blob/main/SAE_Regression_TRAN.pdf)
 
 ![image](https://i.pinimg.com/564x/42/22/23/4222236255eb26eed82702dd9a9e5009.jpg)
